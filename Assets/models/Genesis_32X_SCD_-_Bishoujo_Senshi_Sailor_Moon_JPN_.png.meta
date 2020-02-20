@@ -1,0 +1,594 @@
+fileFormatVersion: 2
+guid: 8c7aacae23f3fcb448414b9ef16752c0
+timeCreated: 1512998646
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__0
+    21300002: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__1
+    21300004: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__2
+    21300006: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__3
+    21300008: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__4
+    21300010: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__5
+    21300012: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__6
+    21300014: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__7
+    21300016: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__8
+    21300018: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__9
+    21300020: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__10
+    21300022: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__11
+    21300024: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__12
+    21300026: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__13
+    21300028: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__14
+    21300030: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__15
+    21300032: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__16
+    21300034: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__17
+    21300036: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__18
+    21300038: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__19
+    21300040: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__20
+    21300042: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__21
+    21300044: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__22
+    21300046: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__23
+    21300048: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__24
+    21300050: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__25
+    21300052: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__26
+    21300054: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__27
+    21300056: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__28
+    21300058: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__29
+    21300060: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__30
+    21300062: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__31
+    21300064: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__32
+    21300066: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__33
+    21300068: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__34
+    21300070: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__35
+    21300072: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__36
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 323
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 293
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 291
+        width: 110
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__4
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 291
+        width: 78
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__5
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 293
+        width: 74
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__6
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 296
+        width: 95
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 278
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 280
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 215
+        width: 120
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 156
+        width: 89
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 156
+        width: 81
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__12
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 154
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__13
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 153
+        width: 95
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__14
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 157
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__15
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 155
+        width: 82
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 159
+        width: 108
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__17
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 13
+        width: 67
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 10
+        width: 67
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 11
+        width: 69
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__20
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 15
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 22
+        width: 134
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__22
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 47
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__23
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 38
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__24
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__25
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 38
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__26
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__27
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__28
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 38
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__29
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 38
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__30
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 38
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__31
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__32
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__33
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__34
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 26
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__35
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 26
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Genesis_32X_SCD_-_Bishoujo_Senshi_Sailor_Moon_JPN__36
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 26
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

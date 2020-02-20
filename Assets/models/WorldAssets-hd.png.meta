@@ -1,0 +1,748 @@
+fileFormatVersion: 2
+guid: cf0dcd5e3dbde394eb4e440c0a04cfd2
+timeCreated: 1510654660
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WorldAssets-hd_0
+    21300002: WorldAssets-hd_1
+    21300004: WorldAssets-hd_2
+    21300006: WorldAssets-hd_3
+    21300008: WorldAssets-hd_4
+    21300010: WorldAssets-hd_5
+    21300012: WorldAssets-hd_6
+    21300014: WorldAssets-hd_7
+    21300016: WorldAssets-hd_8
+    21300018: WorldAssets-hd_9
+    21300020: WorldAssets-hd_10
+    21300022: WorldAssets-hd_11
+    21300024: WorldAssets-hd_12
+    21300026: WorldAssets-hd_13
+    21300028: WorldAssets-hd_14
+    21300030: WorldAssets-hd_15
+    21300032: WorldAssets-hd_16
+    21300034: WorldAssets-hd_17
+    21300036: WorldAssets-hd_18
+    21300038: WorldAssets-hd_19
+    21300040: WorldAssets-hd_20
+    21300042: WorldAssets-hd_21
+    21300044: WorldAssets-hd_22
+    21300046: WorldAssets-hd_23
+    21300048: WorldAssets-hd_24
+    21300050: WorldAssets-hd_25
+    21300052: WorldAssets-hd_26
+    21300054: WorldAssets-hd_27
+    21300056: WorldAssets-hd_28
+    21300058: WorldAssets-hd_29
+    21300060: WorldAssets-hd_30
+    21300062: WorldAssets-hd_31
+    21300064: WorldAssets-hd_32
+    21300066: WorldAssets-hd_33
+    21300068: WorldAssets-hd_34
+    21300070: WorldAssets-hd_35
+    21300072: WorldAssets-hd_36
+    21300074: WorldAssets-hd_37
+    21300076: WorldAssets-hd_38
+    21300078: WorldAssets-hd_39
+    21300080: WorldAssets-hd_40
+    21300082: WorldAssets-hd_41
+    21300084: WorldAssets-hd_42
+    21300086: WorldAssets-hd_43
+    21300088: WorldAssets-hd_44
+    21300090: WorldAssets-hd_45
+    21300092: WorldAssets-hd_46
+    21300094: WorldAssets-hd_47
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WorldAssets-hd_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1337
+        width: 1286
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_1
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 997
+        width: 411
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_2
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1060
+        width: 309
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1136
+        width: 1286
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 969
+        width: 1164
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_5
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1063
+        width: 101
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_6
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 990
+        width: 101
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_7
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 870
+        width: 180
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_8
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 1010
+        width: 84
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_9
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 926
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_10
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 966
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_11
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 808
+        width: 172
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_12
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 928
+        width: 180
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_13
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 922
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_14
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 615
+        width: 10
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 850
+        width: 1100
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_16
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 898
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_17
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 936
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_18
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 910
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_19
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 859
+        width: 180
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_20
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 860
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 666
+        width: 1060
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_22
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 814
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_23
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 820
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_24
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 790
+        width: 180
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_25
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 693
+        width: 154
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_26
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 782
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_27
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 418
+        width: 14
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_28
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 757
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_29
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 753
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_30
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 721
+        width: 180
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_31
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 711
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 157
+        width: 960
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_33
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 542
+        width: 174
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_34
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 644
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_35
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 652
+        width: 180
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_36
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 265
+        width: 12
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_37
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 635
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_38
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 583
+        width: 180
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_39
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 595
+        width: 180
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_40
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 570
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_41
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 444
+        width: 157
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_42
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 526
+        width: 180
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_43
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 490
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_44
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 432
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_45
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 379
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_46
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 353
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: WorldAssets-hd_47
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 5
+        width: 960
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

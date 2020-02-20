@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\BulletController.cs">
+    <Files>
+      <File FileName="Assets\script\PlayerStats.cs" Line="31" Column="5" />
+      <File FileName="Assets\script\food.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\spike.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\bulletboss.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\food2.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\BulletController.cs" Line="29" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="M:\Ahmed\BUE\year2\Semester1\Systems Analysis and Design(Gaming)\project\Waylaid\Assets\script\Bossenemy.cs" line="3" column="6" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
